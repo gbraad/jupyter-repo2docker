@@ -7,7 +7,7 @@ decorator==4.2.1
 enum34==1.1.6
 ipykernel==4.8.2
 ipython-genutils==0.2.0
-ipython==5.5.0
+ipython==7.16.3
 jupyter-client==5.2.3
 jupyter-core==4.4.0
 pathlib2==2.3.0
